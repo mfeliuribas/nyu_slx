@@ -15,7 +15,7 @@ In contrast, the present perfect indicates an event that, even though it started
 Despite these general tendencies in meaning, that have been described in different grammars, the use of the perfective past tenses is subject to dialectal variation. 
 
 ---
-These studies on MLs have identified several key linguistic and social factors that influence the use of preterit and the present perfect, and have revealed differences not only in the usage rates of these forms, but also in the factors that constrain their uses. 
+These variationist studies on MLs have identified several key linguistic and social factors that influence the use of preterit and the present perfect, and have revealed differences not only in the usage rates of these forms, but also in the factors that constrain their uses. 
 
 For example, the preterit is considered the default form to express perfectivity in most of the Spanish varieties, but the present perfect is favored and more productively used in Peninsular Spanish. 
 
@@ -28,11 +28,7 @@ The results from these studies on monolinguals have been compared to those of En
 
 There are a couple of studies by Geeslin and colleagues with L2 learners studying in Mexico and Spain, that showed that over the course of the immersion program, the L2 learners started using the present perfect in a more native-like way, meaning that by the end of the stay their uses resembled those of the local community. Those staying in León exhibited a more Peninsular-like pattern (for instance, they increased their usage of the present perfect and were more likely to use this form in *today*-contexts, such as 'this morning' or 'today') while those staying in Mexico City showed a more Mexican-like pattern (for example, they reduce their uses of the present perfect and basically limited it to undetermined contexts).
 
-So, we have a pretty good understanding of how Spanish monolinguals from different varieties and L2 learners of Spanish employ the forms to express perfectivity. To summarize it, quickly, the present perfect differs both quantitatively
-and qualitatively in European and Latin American varieties, providing evidence of a
-shift in the use of the present perfect to perfective use in temporally indeterminate
-past contexts and hodiernal contexts in Peninsular Spanish, in a way that differs
-from the Spanish spoken in other places such as Peru, Mexico, and Argentina.
+So, we have a pretty good understanding of how Spanish monolinguals from different varieties and L2 learners of Spanish employ the forms to express perfectivity. To summarize it, quickly, the present perfect differs both quantitatively and qualitatively in European and Latin American varieties, providing evidence of a shift in the use of the present perfect to perfective use in temporally indeterminate past contexts and hodiernal contexts in Peninsular Spanish, in a way that differs from the Spanish spoken in other places such as Peru, Mexico, and Argentina.
 
 However, the constraints of use of the Spanish present perfect, in particular, in early Spanish-English bilinguals are less clear **BECAUSE** there is a lack of research on this phenomenon. To my knowledge, there are only two studies that have attempted to examine variation in the uses of these forms by early bilinguals, but not without limitations. Markle LaMontagne is a case study of 2 brothers and in Corbett et al. they put in the same group heritage speakers born in the US with late bilinguals (so, people that arrive here after the age of 8). And, also, in both studies they only provide descriptive stats, so we cannot really understand the effects of the predictors, since we just get some impressions. 
 
@@ -51,9 +47,8 @@ paradigms in Spanish?
 # Methods
 
 ### Participants
-28 Spanish-English early bilinguals between the ages of 18 and 60 participated in this study. Most of them reported growing up in a Spanish-speaking household, starting learning Spanish when they were infants and English by the start of elementary school. Their Spanish proficiency was assessed using a reduced version of the Diploma de Español como Lengua Extranjera test.
+28 early Spanish-English bilinguals between the ages of 18 and 60 participated in this study. Most of them reported growing up in a Spanish-speaking household, starting learning Spanish when they were infants and English by the start of elementary school. 
 
----
 Participants were divided into four different groups, based on the origin of their families: 
 (1) one parent was from Spain and the other from the U.S. (n=3; coded as ‘1Spaniard’); 
 (2) both parents were from Spain (n=5; coded as ‘2Spaniards’);
@@ -72,7 +67,7 @@ Then I created the CPT with the aim of collecting data about the respondents' pr
 ---
 So, let's talk a little bit more about this CPT.
 
-In the contextualized preference task, as we can see in this example here, participants were presented with contextualized stories followed by two sentences that differed only in the verb form. Rather than being required to make a forced choice, participants were asked to select the form they preferred or to indicate an equal preference for both structures. 
+In the contextualized preference task participants were presented with contextualized stories followed by two sentences that differed only in the verb form. Rather than being required to make a forced choice, participants were asked to select the form they preferred or to indicate an equal preference for both structures. 
 
 The linguistic variables that I manipulated were temporal reference and lexical aspect, and the items were controlled for the clause type, person, verb type, and negation. There were a total of 37 items, 18 of which were the experimental stimuli.
 
@@ -82,7 +77,7 @@ I ended up having a dataset of 504 tokens. I analyzed these data using a Bayesia
 
 Although the estimates were different, I wanted to statistically proof if there was really a difference between the groups.
 
-Before moving on to the results, I think that is important at least to mention a couple of things about BDA. Bayesian analysis focuses on understanding the whole range of possibilities within our data and how uncertain we are about them, instead of trying to estimate the only line of best fit. And, to do that, we report the results from the posterior distribution of the model, which represents all the possible outcomes and their corresponding probabilities. So I will not report any *p* values or use words such as *significant* but, rather, I will talk about the probability of the preterit and the present perfect of being selected, and all the results I will report come from the posteriors of my model and the comparisons.
+Before moving on to the results, I think that is important at least to mention a couple of things about BDA. Bayesian analysis focuses on understanding the whole range of possibilities within our data and how uncertain we are about them, instead of trying to estimate the only line of best fit. And, to do that, we report the results from the posterior distribution of the model, which represents all the possible outcomes and their corresponding pr obabilities. So I will not report any *p* values or use words such as *significant*. Instead, I will report Beta estimates, which are the most likely values for an effect, and HDIs, which provide a measure of uncertainty around the estimated value. In other words, I will talk about the probability of the preterit and the present perfect of being selected, and all the results I will report come from the posteriors of my model and the comparisons.
 
 ---
 # Results
@@ -143,7 +138,7 @@ Okay, I have given you a lot of information, so let's recap: I found that the pr
 
 The present perfect was favored in hodiernal and undetermined contexts by those participants with familial ties to Spain, but to varying degrees, and the probability of selecting it was higher for those participants with two parents from that country, right? Although I cannot draw any firm conclusions, these differences might be attributed to input quantity, as these groups differed in the variety and/or languages spoken at home, with 2Spaniards being supposedly more exposed to Peninsular Spanish.
 
-So, taken together, the results indicate that Spanish-English early bilinguals can acquire the distinction between the past perfective time forms in Spanish. In addition, they show sensitivity to the constraints identified in previous studies with monolingual Spanish speakers, in the direction of effect established in previous work, suggesting that the variation in the selection of the preterit vs the present perfect is systematic.
+So, taken together, the results indicate that early Spanish-English  bilinguals can indeed acquire the distinction between the past perfective time forms in Spanish. In addition, they show sensitivity to the constraints identified in previous studies with monolingual Spanish speakers, in the direction of effect established in previous work, suggesting that the variation in the selection of the preterit vs the present perfect is systematic.
 
 ---
 However, there are, of course, some limitations that disallow generalizations
