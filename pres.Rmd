@@ -98,7 +98,7 @@ paradigms in Spanish?
 ### Materials
 1. .black[Demographic and Language Questionnaire] 
   
-2. .black[Spanish Proficiency Test] (Montrul, 2012a)
+2. .black[Spanish Proficiency Test] (Montrul, 2012)
 
 3. .black[Contextualized Preference Task]
   
@@ -469,10 +469,10 @@ Dialects: A Parallel-Corpus Study. <i>Languages, 7</i>(3), 1–23.</p>
 <p>Markle LaMontagne, J. (2011). Acquisition of the Spanish Present Perfect by Spanish-English Bilinguals. <i>Proceedings of the 2011 annual conference of the Canadian Linguistic Association</i> (pp. 1–15).</p>
 
 <p>Montrul, S. (2002). Incomplete acquisition and attrition of spanish tense/aspect
-distinctions in adult bilinguals. *Bilingualism: Language and Cognition, 5*(1), 39–
+distinctions in adult bilinguals. <i>Bilingualism: Language and Cognition, 5</i>(1), 39–
 68.</p>
 
-<p>Montrul, S. (2012a). <i>DELE Proficiency Test</i>.</p> 
+<p>Montrul, S. (2012). <i>DELE Proficiency Test</i>.</p> 
 
 <p>Pascual y Cabo, D., & Rothman, J. (2012). The (Il)Logical Problem of Heritage Speaker Bilingualism and Incomplete Acquisition. <i>Applied Linguistics, 33</i>(4), 450-455.</p>
 
@@ -498,9 +498,9 @@ distinctions in adult bilinguals. *Bilingualism: Language and Cognition, 5*(1), 
 
 <p>Shin, N. (2022). Structured variation in child heritage speakers’ grammars. <i>Compass, 16</i>(12), 1–13.</p>
 
-<p>Silva-Corvalán, C. (Ed.). (2014). *Bilingual Language Acquisition: Spanish and English in the First Six Years*. Cambridge University Press.</p>
+<p>Silva-Corvalán, C. (Ed.). (2014). <i>Bilingual Language Acquisition: Spanish and English in the First Six Years</i>. Cambridge University Press.</p>
 
-<p>Silva-Corvalán, C., & Enrique-Arias, A. (2017). *Sociolingüística y pragmática del español* (2nd ed.). Georgetown University Press.</p>
+<p>Silva-Corvalán, C., & Enrique-Arias, A. (2017). <i>Sociolingüística y pragmática del español</i> (2nd ed.). Georgetown University Press.</p>
 
 </font> 
 
